@@ -1,7 +1,7 @@
-﻿ <div id="contenu">
-      <h2>Mes fiches de frais</h2>
+<div id="contenu">
+      <h2>Visiteurs disponibles</h2>
       <h3>Visiteur à sélectionner : </h3>
-      <form action="index.php?uc=validerFrais&action=selectionnerMois" method="post">
+      <form action="index.php?uc=paiement&action=affichageFiches" method="post">
       <div class="corpsForm">
          
       <p>
@@ -39,6 +39,7 @@
         
       </form>
       </form>
+
 
 
 
